@@ -2,7 +2,7 @@
 ---
 
 - 👀 I’m interested in Game development, Ai and ML, backend engineering.
-- 🌱 I’m currently learning and perusing my career in Game development with Unity and Blender.
+- 🌱 I’m currently learning and pursuing my career in Game development with Unity and Blender.
 <!-- - 💞️ I’m looking to collaborate on open source, and mini projects. -->
 <!-- - 📫 How to reach me ... -->
 ## 🤝🏻 &nbsp;Connect with Me
