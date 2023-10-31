@@ -13,6 +13,11 @@
 <a href="https://instagram.com/fawadta"><img src="https://img.shields.io/badge/-@fawadta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.snapchat.com/add/fawadta"><img src="https://img.shields.io/badge/-@fawadta-1877F2?style=flat&logo=snapchat"/></a>
 
+## 💻 Hacktoberfest'23: 
+[![An image of @fawadta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawadta)](https://holopin.io/@fawadta)
+
+</br>
+
 <!---
 fawadta/fawadta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
