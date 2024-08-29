@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/fawadta"><img src="https://img.shields.io/badge/Fawad%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact@saad-hassan.com"><img src="https://img.shields.io/badge/fawadshah501@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fawadta"><img src="https://img.shields.io/badge/-@fawadta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.snapchat.com/add/fawadta"><img src="https://img.shields.io/badge/-@fawadta-1877F2?style=flat&logo=snapchat"/></a>
+<!-- <a href="https://www.snapchat.com/add/fawadta"><img src="https://img.shields.io/badge/-@fawadta-1877F2?style=flat&logo=snapchat"/></a> -->
 
 ## 💻 Hacktoberfest'23: 
 [![An image of @fawadta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fawadta)](https://holopin.io/@fawadta)
